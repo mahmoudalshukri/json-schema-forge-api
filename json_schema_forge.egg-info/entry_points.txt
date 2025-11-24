@@ -1,0 +1,2 @@
+[console_scripts]
+json-schema-forge = json_schema_forge.cli:app
